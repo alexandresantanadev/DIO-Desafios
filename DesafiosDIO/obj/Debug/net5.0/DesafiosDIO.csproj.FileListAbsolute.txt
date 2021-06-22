@@ -1,0 +1,16 @@
+D:\alexandre\DEV\.NET\Projetos\DesafiosDIO\DesafiosDIO\obj\Debug\net5.0\DesafiosDIO.csprojAssemblyReference.cache
+D:\alexandre\DEV\.NET\Projetos\DesafiosDIO\DesafiosDIO\obj\Debug\net5.0\DesafiosDIO.GeneratedMSBuildEditorConfig.editorconfig
+D:\alexandre\DEV\.NET\Projetos\DesafiosDIO\DesafiosDIO\obj\Debug\net5.0\DesafiosDIO.AssemblyInfoInputs.cache
+D:\alexandre\DEV\.NET\Projetos\DesafiosDIO\DesafiosDIO\obj\Debug\net5.0\DesafiosDIO.AssemblyInfo.cs
+D:\alexandre\DEV\.NET\Projetos\DesafiosDIO\DesafiosDIO\obj\Debug\net5.0\DesafiosDIO.csproj.CoreCompileInputs.cache
+D:\alexandre\DEV\.NET\Projetos\DesafiosDIO\DesafiosDIO\bin\Debug\net5.0\DesafiosDIO.exe
+D:\alexandre\DEV\.NET\Projetos\DesafiosDIO\DesafiosDIO\bin\Debug\net5.0\DesafiosDIO.deps.json
+D:\alexandre\DEV\.NET\Projetos\DesafiosDIO\DesafiosDIO\bin\Debug\net5.0\DesafiosDIO.runtimeconfig.json
+D:\alexandre\DEV\.NET\Projetos\DesafiosDIO\DesafiosDIO\bin\Debug\net5.0\DesafiosDIO.runtimeconfig.dev.json
+D:\alexandre\DEV\.NET\Projetos\DesafiosDIO\DesafiosDIO\bin\Debug\net5.0\DesafiosDIO.dll
+D:\alexandre\DEV\.NET\Projetos\DesafiosDIO\DesafiosDIO\bin\Debug\net5.0\ref\DesafiosDIO.dll
+D:\alexandre\DEV\.NET\Projetos\DesafiosDIO\DesafiosDIO\bin\Debug\net5.0\DesafiosDIO.pdb
+D:\alexandre\DEV\.NET\Projetos\DesafiosDIO\DesafiosDIO\obj\Debug\net5.0\DesafiosDIO.dll
+D:\alexandre\DEV\.NET\Projetos\DesafiosDIO\DesafiosDIO\obj\Debug\net5.0\ref\DesafiosDIO.dll
+D:\alexandre\DEV\.NET\Projetos\DesafiosDIO\DesafiosDIO\obj\Debug\net5.0\DesafiosDIO.pdb
+D:\alexandre\DEV\.NET\Projetos\DesafiosDIO\DesafiosDIO\obj\Debug\net5.0\DesafiosDIO.genruntimeconfig.cache
